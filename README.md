@@ -1,3 +1,5 @@
+Enrollify
+
 Aplikasi berbasis web Penerimaan Mahasiswa Baru (PMB) dengan
 sebuah sistem yang dirancang untuk mengelola proses penerimaan mahasiswa baru di sebuah 
 perguruan tinggi atau institusi pendidikan. Sesuai dengan penamaan aplikasi ini yang diambil 
