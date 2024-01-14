@@ -6,3 +6,5 @@ dari kosakata bahasa inggris enroll dan simplify, aplikasi ini memberikan pelaya
 mudah dipahami, efisien dan terstruktur bagi calon mahasiswa yang ingin mendaftar di 
 Universitas Telkom selain mudah digunakan dari sisi user, aplikasi ini juga memudahkan staf 
 administrasi untuk mengelola data seluruh proses penerimaan dengan mudah dan akurat.
+
+Link drive file lengkap : https://drive.google.com/drive/folders/1sLTmkLUYwmMqzGQhIW0G4SH5xpQe34YV?usp=drive_link
